@@ -1,0 +1,82 @@
+[2025-10-11T14:55:14.202Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T14:55:14.202Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"hs/p40tpKaOqd7TBFjAprQ==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"44.202.235.240","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T14:55:14.203Z] 🔌 Extracted call_sid: unknown
+[2025-10-11T14:57:54.292Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T14:57:54.293Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"OjlSDrHJ3TD7shVXjvt/sw==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"3.87.75.113","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T14:57:54.294Z] 🔌 Extracted call_sid: unknown
+[2025-10-11T15:07:00.770Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T15:07:00.771Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"b9gw+oIfAwlkmvi20x/+BA==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"18.212.163.35","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T15:07:00.772Z] 🔧 Generated unique call ID: call_1760195220772_bXWj05yr
+[2025-10-11T15:07:00.772Z] 🔌 Extracted call_sid: call_1760195220772_bXWj05yr
+[2025-10-11T15:09:03.683Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T15:09:03.684Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"GkEVwf/2lcoEdqKqb2IYJQ==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"13.218.80.70","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T15:09:03.685Z] 🔧 Generated unique call ID: call_1760195343685_bXWj05yr
+[2025-10-11T15:09:03.685Z] 🔌 Extracted call_sid: call_1760195343685_bXWj05yr
+[2025-10-11T15:12:50.031Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T15:12:50.032Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"2R8ZPmMq+gHan182NGJoCg==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"34.201.219.77","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T15:12:50.032Z] 🔧 Generated unique call ID: call_1760195570032_bXWj05yr
+[2025-10-11T15:12:50.032Z] 🔌 Extracted call_sid: call_1760195570032_bXWj05yr
+[2025-10-11T15:17:43.318Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T15:17:43.319Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"uEKYy+XJOz7RdAIbaNZ9iQ==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"3.81.40.160","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T15:17:43.319Z] 🔧 Generated unique call ID: call_1760195863319_bXWj05yr
+[2025-10-11T15:17:43.319Z] 🔌 Extracted call_sid: call_1760195863319_bXWj05yr
+[2025-10-11T15:45:13.622Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T15:45:13.622Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"uEKYy+XJOz7RdAIbaNZ9iQ==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"3.81.40.160","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T15:45:13.623Z] 🔧 Generated unique call ID: call_1760197513623_bXWj05yr
+[2025-10-11T15:45:13.623Z] 🔌 Extracted call_sid: call_1760197513623_bXWj05yr
+[2025-10-11T15:47:09.839Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T15:47:09.840Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"fU5vEwf+7v6kvJIl2E5Flg==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"107.22.133.147","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T15:47:09.840Z] 🔧 Generated unique call ID: call_1760197629840_bXWj05yr
+[2025-10-11T15:47:09.840Z] 🔌 Extracted call_sid: call_1760197629840_bXWj05yr
+[2025-10-11T16:13:53.896Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:13:53.897Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"o5deRuQAzAjER/c86ShlYw==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"34.201.110.29","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:13:53.898Z] 🔧 Generated unique call ID: call_1760199233898_bXWj05yr
+[2025-10-11T16:13:53.898Z] 🔌 Extracted call_sid: call_1760199233898_bXWj05yr
+[2025-10-11T16:15:18.163Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:15:18.164Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"6APV69V2tCmW0fuy78HD8A==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"54.204.251.158","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:15:18.164Z] 🔧 Generated unique call ID: call_1760199318164_bXWj05yr
+[2025-10-11T16:15:18.164Z] 🔌 Extracted call_sid: call_1760199318164_bXWj05yr
+[2025-10-11T16:17:25.523Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:17:25.525Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"UD5VwmhANQsiBwfgcbXifw==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"34.228.189.71","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:17:25.526Z] 🔧 Generated unique call ID: call_1760199445526_bXWj05yr
+[2025-10-11T16:17:25.526Z] 🔌 Extracted call_sid: call_1760199445526_bXWj05yr
+[2025-10-11T16:19:15.480Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:19:15.482Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"shFRyeOe41fenfBeVKFxcg==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"44.204.3.8","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:19:15.483Z] 🔧 Generated unique call ID: call_1760199555483_bXWj05yr
+[2025-10-11T16:19:15.483Z] 🔌 Extracted call_sid: call_1760199555483_bXWj05yr
+[2025-10-11T16:21:30.445Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:21:30.446Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"MWGXURDbu7/iXHHZztOhlg==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"3.83.99.95","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:21:30.446Z] 🔧 Generated unique call ID: call_1760199690446_bXWj05yr
+[2025-10-11T16:21:30.446Z] 🔌 Extracted call_sid: call_1760199690446_bXWj05yr
+[2025-10-11T16:24:43.422Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:24:43.423Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"zkLOi0me2ntRQTkMbrEc7w==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"34.229.196.120","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:24:43.424Z] 🔧 Generated unique call ID: call_1760199883424_bXWj05yr
+[2025-10-11T16:24:43.424Z] 🔌 Extracted call_sid: call_1760199883424_bXWj05yr
+[2025-10-11T16:36:32.888Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:36:32.890Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"nARJOB9yZPlrBltrJRqE2w==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"100.26.23.83","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:36:32.891Z] 🔧 Generated unique call ID: call_1760200592891_bXWj05yr
+[2025-10-11T16:36:32.891Z] 🔌 Extracted call_sid: call_1760200592891_bXWj05yr
+[2025-10-11T16:43:33.384Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:43:33.385Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"gNjdU8oYvtMEPG95sUOlXg==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"3.81.40.160","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:43:33.386Z] 🔧 Generated unique call ID: call_1760201013386_bXWj05yr
+[2025-10-11T16:43:33.386Z] 🔌 Extracted call_sid: call_1760201013386_bXWj05yr
+[2025-10-11T16:45:47.939Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:45:47.940Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"wkfPFR9o+Rum72uPZ0iSHA==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"3.83.129.14","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:45:47.940Z] 🔧 Generated unique call ID: call_1760201147940_bXWj05yr
+[2025-10-11T16:45:47.940Z] 🔌 Extracted call_sid: call_1760201147940_bXWj05yr
+[2025-10-11T16:48:05.941Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:48:05.941Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"oMbSuUD2uft1yxi9r+vDGQ==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"34.201.143.70","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:48:05.942Z] 🔧 Generated unique call ID: call_1760201285942_bXWj05yr
+[2025-10-11T16:48:05.942Z] 🔌 Extracted call_sid: call_1760201285942_bXWj05yr
+[2025-10-11T16:54:25.324Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:54:25.324Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"YbVSGHLXUkt1L0C95IUMLw==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"54.81.182.43","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:54:25.325Z] 🔧 Generated unique call ID: call_1760201665325_bXWj05yr
+[2025-10-11T16:54:25.325Z] 🔌 Extracted call_sid: call_1760201665325_bXWj05yr
+[2025-10-11T16:56:18.696Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T16:56:18.696Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"4g9bRaro7KMv9KAmQ9NJvw==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"54.81.202.43","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T16:56:18.696Z] 🔧 Generated unique call ID: call_1760201778696_bXWj05yr
+[2025-10-11T16:56:18.696Z] 🔌 Extracted call_sid: call_1760201778696_bXWj05yr
+[2025-10-11T17:00:00.261Z] 🔌 New WebSocket connection from: /realtime
+[2025-10-11T17:00:00.262Z] 🔌 Headers: | Data: {"host":"9e117f72fdf6.ngrok-free.app","user-agent":"Twilio.TmeWs/1.0","connection":"Upgrade","sec-websocket-key":"k95l8yN6kKfZPm/FzLDMOg==","sec-websocket-version":"13","upgrade":"websocket","x-forwarded-for":"18.234.230.3","x-forwarded-host":"9e117f72fdf6.ngrok-free.app","x-forwarded-proto":"https","x-twilio-signature":"bXWj05yrH6YRdLUHi1qftC6a31o=","accept-encoding":"gzip"}
+[2025-10-11T17:00:00.269Z] 🔧 Generated unique call ID: call_1760202000269_bXWj05yr
+[2025-10-11T17:00:00.269Z] 🔌 Extracted call_sid: call_1760202000269_bXWj05yr

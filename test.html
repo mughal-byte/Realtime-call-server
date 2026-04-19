@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>🎙️ Realtime AI Voice Test</h2>
+    <button id="connect">Connect & Start Talking</button>
+    <button id="stop">Stop</button>
+    <pre id="log"></pre>
+
+    <script>
+      let ws;
+      let mediaRecorder;
+
+      const log = (msg) => document.getElementById("log").textContent += msg + "\n";
+
+      document.getElementById("connect").onclick = async () => {
+        ws = new WebSocket("ws://localhost:3000?call_sid=test123");
+
+        ws.onopen = async () => {
+          log("✅ Connected to server");
+          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          mediaRecorder = new MediaRecorder(stream, { mimeType: "audio/webm" });
+
+          mediaRecorder.addEventListener("dataavailable", (e) => {
+            if (e.data.size > 0 && ws.readyState === WebSocket.OPEN) {
+              e.data.arrayBuffer().then(buffer => ws.send(buffer));
+            }
+          });
+
+          mediaRecorder.start(250);
+          log("🎤 Recording started...");
+        };
+
+        ws.onmessage = async (msg) => {
+          if (msg.data instanceof Blob || msg.data instanceof ArrayBuffer) {
+            const arrayBuffer = msg.data instanceof Blob ? await msg.data.arrayBuffer() : msg.data;
+            log("🎧 Received audio (" + arrayBuffer.byteLength + " bytes)");
+            const audioBlob = new Blob([arrayBuffer], { type: "audio/mpeg" });
+            const audioUrl = URL.createObjectURL(audioBlob);
+            new Audio(audioUrl).play();
+          } else {
+            log("🪶 Message: " + msg.data);
+          }
+        };
+
+        ws.onclose = () => log("❌ Disconnected");
+      };
+
+      document.getElementById("stop").onclick = () => {
+        if (mediaRecorder) mediaRecorder.stop();
+        if (ws) ws.close();
+        log("🛑 Stopped");
+      };
+    </script>
+  </body>
+</html>
